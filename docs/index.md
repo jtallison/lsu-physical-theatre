@@ -20,7 +20,7 @@ Join us at the Edinburgh Fringe, August 2-24, 2024
 
 ----
 
-<span style="text-align: center;">Follow us on [Instagram #thelastbeginninglsu](https://www.instagram.com/thelastbeginninglsu/)</span>
+<span style="text-align: center; display: inline-block; width: 100%;">Follow us on [Instagram #thelastbeginninglsu](https://www.instagram.com/thelastbeginninglsu/)</span>
 
 <div style="text-align: center; width: 100%; margin: 0px; display: flex; justify-content: center;" markdown="1">
 
