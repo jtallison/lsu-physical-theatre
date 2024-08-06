@@ -3,6 +3,9 @@
         background: #020202;
         color: #cccccc;
     }
+    header {
+        display: none;
+    }
 </style>
 
 <!-- # LSU Physical Theatre -->
