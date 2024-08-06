@@ -16,7 +16,9 @@ Join us at the Edinburgh Fringe, August 2-24, 2024
 ![The Last Beginning Poster](media/TheLastBeginning-LimeStudio-FullRun.png)
 
 ----
-<div style="text-align: center; width: 100%; margin: auto;">
+
+<div style="text-align: center; width: 100%; margin: 0px; display: flex; justify-content: center;">
+
 Follow us on [Instagram #thelastbeginninglsu](https://www.instagram.com/thelastbeginninglsu/)
 
 
@@ -28,27 +30,45 @@ Follow us on [Instagram #thelastbeginninglsu](https://www.instagram.com/thelastb
 
 ## Shots from the Show
 
-![Awakening Beginning](media/awakening-beginning.jpg){: width="40%"}
+<div style="margin: 10%;">
+
+![Awakening Beginning](media/awakening-beginning.jpg){: width="60%"}
 
 > The becoming
 
-![cocoon-beginning](media/cocoon-beginning.jpg){: width="40%"}
+![cocoon-beginning](media/cocoon-beginning.jpg){: width="60%"}
 
 > from the cocoon
 
-![Rising from Slumber](media/rising-from-slumber.jpg){: width="40%"}
+![fullerene trio](media/fullerene-trio.jpg){: width="60%"}
+
+> trio on the fullerene
+
+![on our way](media/on-our-way.jpg){: width="60%"}
+
+> wake into black
+
+![Rising from Slumber](media/rising-from-slumber.jpg){: width="60%"}
 
 > humanity rises
 
-![newcomer-battle](media/newcomer-battle.jpg){: width="40%"}
+![newcomer-battle](media/newcomer-battle.jpg){: width="60%"}
 
 > conflict
 
-![funeral newcomer](media/funeral-newcomer.jpg){: width="40%"}
+![funeral wailing](media/funeral-wailing.jpg){: width="60%"}
+
+> letting go
+
+![funeral newcomer](media/funeral-newcomer.jpg){: width="60%"}
 
 > dealing with loss
 
-![the wake](media/wake-dance.jpg){: width="40%"}
+![blue highlight](media/blue-highlight.jpg){: width="60%"}
+
+> illuminated dance
+
+![the wake](media/wake-dance.jpg){: width="60%"}
 
 > dance
 
@@ -56,7 +76,7 @@ Follow us on [Instagram #thelastbeginninglsu](https://www.instagram.com/thelastb
 
 > Into the portal
 
-
+</div>
 
 ----
 
