@@ -3,7 +3,7 @@
         background: #020202;
         color: #cccccc;
     }
-    header {
+    h1 {
         display: none;
     }
 </style>
