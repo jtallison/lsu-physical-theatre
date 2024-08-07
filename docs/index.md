@@ -10,7 +10,7 @@
     .pquote {
         float: right;
         width: 200px;
-        background: url(images/openquote.gif) top left no-repeat;
+        background: url(media/openquote.gif) top left no-repeat;
         color: #9A9;
         font-size: 26px;
         line-height: 0.9;
@@ -29,6 +29,7 @@
 
     .pquote .by {
         padding: 6px;
+        font-size: 12px;
     }
 </style>
 
@@ -46,14 +47,14 @@ Join us at the Edinburgh Fringe, August 2-24, 2024
 
 World premiere of physical theatre using an original bucky ball structure, dance, aerial, stage combat, and new music with songs.
 
-When there is no one left but a handful of the human race, what keeps them going? Are we hardwired to self-destruct or can we find something that unites us all to survive and thrive? This production brings together dance, acrobatics, aerial silk, a new multi-person dance sphere, stage combat, original composition and innovative light-stick technology to create a new look at who we might become.
-
 <aside class="pquote">
     <blockquote>
         <p>So much to feast your eyes on – prepare to be entertained and moved</p>
     </blockquote>
-    <p class="by">Natasha Higdon – [Fringe Review 2024](https://fringereview.co.uk/review/edinburgh-fringe/2024/the-last-beginning/)</p>
+    <p class="by" markdown="1">Natasha Higdon – [Fringe Review 2024](https://fringereview.co.uk/review/edinburgh-fringe/2024/the-last-beginning/)</p>
 </aside>
+
+When there is no one left but a handful of the human race, what keeps them going? Are we hardwired to self-destruct or can we find something that unites us all to survive and thrive? This production brings together dance, acrobatics, aerial silk, a new multi-person dance sphere, stage combat, original composition and innovative light-stick technology to create a new look at who we might become.
 
 LSU Physical Theatre is committed to encouraging a view of global citizenry and cultural cross-pollination in the lives of young adults at home and abroad to foster a future of global inclusiveness and compassion. 
 
