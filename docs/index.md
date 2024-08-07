@@ -5,6 +5,10 @@
         font: 300 20px/1.5 Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
     }
 
+    .markdown-body {
+        font: 300 20px/1.5 Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
+    }
+
     h1 {
         display: none;
     }
