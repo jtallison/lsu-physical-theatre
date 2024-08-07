@@ -1,6 +1,6 @@
 <style>
     body {
-        background: #9a9;
+        background: #ddf;
         color: #030;
         font: 300 20px/1.5 Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
     }
@@ -45,7 +45,7 @@ World premiere of physical theatre using an original bucky ball structure, dance
 
 LSU Physical Theatre Presents:
 
-# The Last Beginning 
+## [The Last Beginning](../)
 
 When there is no one left but a handful of the human race, what keeps them going? Are we hardwired to self-destruct or can we find something that unites us all to survive and thrive? This production brings together dance, acrobatics, aerial silk, a new multi-person dance sphere, stage combat, original composition and innovative light-stick technology to create a new look at who we might become.
 
@@ -64,6 +64,13 @@ LSU Theatre’s creative team consists of director, Nick Erickson, founding memb
 
 Venue:  Greenside @ George Street  Lime Studio (Venue 236)
 
+<aside class="pquote">
+    <blockquote>
+        <p>If you want to be amazed, terrified, and captivated. This show was unlike anything we had ever seen.</p>
+    </blockquote>
+    <p class="by">Byteback Theatre</p>
+</aside>
+
 [Tickets: 15.00/10.00 August 2-10, 12-17, 19-24](https://tickets.edfringe.com/whats-on/last-beginning)
 
 Time: 16:10 (40 Minutes)
@@ -73,13 +80,6 @@ Website:  [https://lsuphysicaltheatre.com](https://lsuphysicaltheatre.com)
 Social Media: [Instagram](https://www.instagram.com/thelastbeginninglsu) (thelastbeginninglsu) and [Facebook](https://www.facebook.com/people/Lsuphysicaltheatre/61557618867910/) Lsuphysicaltheatre
 
 For further information, images, or to request a media ticket, please contact Nick Erickson at nickwe@lsu.edu or 07938 806539
-
-<aside class="pquote">
-    <blockquote>
-        <p>If you want to be amazed, terrified, and captivated. This show was unlike anything we had ever seen.</p>
-    </blockquote>
-    <p class="by">Byteback Theatre</p>
-</aside>
 
 ![Full Fullerene](../media/full-fullerene.jpg)
 
