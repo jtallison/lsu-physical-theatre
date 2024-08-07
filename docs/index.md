@@ -6,6 +6,33 @@
     h1 {
         display: none;
     }
+
+    .quotebox {
+        float: left;
+        width: 200px;
+        background: #900 url(images/ptg1.jpg) top no-repeat;
+        color: #fc0;
+        font-size: 12px;
+        line-height: 1.2;
+        padding-top: 71px;
+        border: 2px solid #600;
+        margin: 0 12px 12px 0;
+    }
+
+    .quotebox p {
+        margin: 0;
+    }
+
+    .quotebox blockquote {
+        font-weight: bold;
+        padding: 6px;
+        border-top: 2px solid #600;
+        margin: 0;
+    }
+
+    .quotebox .by {
+        padding: 6px;
+    }
 </style>
 
 <!-- # LSU Physical Theatre -->
@@ -20,6 +47,17 @@ Join us at the Edinburgh Fringe, August 2-24, 2024
 
 ----
 
+When there is no one left but a handful of the human race, what keeps them going? Are we hardwired to self-destruct or can we find something that unites us all to survive and thrive? This production brings together dance, acrobatics, aerial silk, a new multi-person dance sphere, stage combat, original composition and innovative light-stick technology to create a new look at who we might become.
+
+<aside class="quotebox">
+    <blockquote>
+        <p>"So much to feast your eyes on – prepare to be entertained and moved"</p>
+    </blockquote>
+    <p class="by">Natasha Higdon – [Fringe Review 2024](https://fringereview.co.uk/review/edinburgh-fringe/2024/the-last-beginning/)</p>
+</aside>
+
+----
+
 <span style="text-align: center; display: inline-block; width: 100%;">Follow us on [Instagram #thelastbeginninglsu](https://www.instagram.com/thelastbeginninglsu/)</span>
 
 <div style="text-align: center; width: 100%; margin: 0px; display: flex; justify-content: center;" markdown="1">
@@ -29,6 +67,14 @@ Join us at the Edinburgh Fringe, August 2-24, 2024
 
 </div>
 ----
+
+<aside class="quotebox">
+    <blockquote>
+        <p>"if you want to be amazed, terrified, and captivated. This show was unlike anything we had ever seen."</p>
+    </blockquote>
+    <p class="by">Byteback Theatre</p>
+</aside>
+
 
 ## Shots from the Show
 
