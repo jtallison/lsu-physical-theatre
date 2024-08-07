@@ -7,30 +7,27 @@
         display: none;
     }
 
-    .quotebox {
-        float: left;
+    .pquote {
+        float: right;
         width: 200px;
-        background: #900 url(images/ptg1.jpg) top no-repeat;
-        color: #fc0;
-        font-size: 12px;
-        line-height: 1.2;
-        padding-top: 71px;
-        border: 2px solid #600;
-        margin: 0 12px 12px 0;
+        background: url(images/openquote.gif) top left no-repeat;
+        color: #9A9;
+        font-size: 26px;
+        line-height: 0.9;
+        font-style: italic;
+        padding: 13px;
     }
 
-    .quotebox p {
+    blockquote {
         margin: 0;
     }
 
-    .quotebox blockquote {
+    .pquote p:first-letter {
+        font-size: 39px;
         font-weight: bold;
-        padding: 6px;
-        border-top: 2px solid #600;
-        margin: 0;
     }
 
-    .quotebox .by {
+    .pquote .by {
         padding: 6px;
     }
 </style>
@@ -39,7 +36,7 @@
 
 Join us at the Edinburgh Fringe, August 2-24, 2024
 
-[The Last Beginning Tickets](https://tickets.edfringe.com/whats-on/last-beginning)
+[Purchase The Last Beginning Tickets here](https://tickets.edfringe.com/whats-on/last-beginning)
 
 ----
 
@@ -47,14 +44,18 @@ Join us at the Edinburgh Fringe, August 2-24, 2024
 
 ----
 
+World premiere of physical theatre using an original bucky ball structure, dance, aerial, stage combat, and new music with songs.
+
 When there is no one left but a handful of the human race, what keeps them going? Are we hardwired to self-destruct or can we find something that unites us all to survive and thrive? This production brings together dance, acrobatics, aerial silk, a new multi-person dance sphere, stage combat, original composition and innovative light-stick technology to create a new look at who we might become.
 
-<aside class="quotebox">
+<aside class="pquote">
     <blockquote>
-        <p>"So much to feast your eyes on – prepare to be entertained and moved"</p>
+        <p>So much to feast your eyes on – prepare to be entertained and moved</p>
     </blockquote>
     <p class="by">Natasha Higdon – [Fringe Review 2024](https://fringereview.co.uk/review/edinburgh-fringe/2024/the-last-beginning/)</p>
 </aside>
+
+LSU Physical Theatre is committed to encouraging a view of global citizenry and cultural cross-pollination in the lives of young adults at home and abroad to foster a future of global inclusiveness and compassion. 
 
 ----
 
@@ -68,13 +69,14 @@ When there is no one left but a handful of the human race, what keeps them going
 </div>
 ----
 
-<aside class="quotebox">
+<aside class="pquote">
     <blockquote>
-        <p>"if you want to be amazed, terrified, and captivated. This show was unlike anything we had ever seen."</p>
+        <p>If you want to be amazed, terrified, and captivated. This show was unlike anything we had ever seen.</p>
     </blockquote>
     <p class="by">Byteback Theatre</p>
 </aside>
 
+----
 
 ## Shots from the Show
 
