@@ -68,14 +68,6 @@ LSU Physical Theatre is committed to encouraging a view of global citizenry and 
 <script async src="//www.instagram.com/embed.js"></script>
 
 </div>
-----
-
-<aside class="pquote">
-    <blockquote>
-        <p>If you want to be amazed, terrified, and captivated. This show was unlike anything we had ever seen.</p>
-    </blockquote>
-    <p class="by">Byteback Theatre</p>
-</aside>
 
 ----
 
@@ -88,6 +80,13 @@ LSU Physical Theatre is committed to encouraging a view of global citizenry and 
 > The becoming
 
 ![cocoon-beginning](media/cocoon-beginning.jpg){: width="60%"}
+
+<aside class="pquote">
+    <blockquote>
+        <p>If you want to be amazed, terrified, and captivated. This show was unlike anything we had ever seen.</p>
+    </blockquote>
+    <p class="by">Byteback Theatre</p>
+</aside>
 
 > from the cocoon
 
