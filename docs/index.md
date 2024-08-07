@@ -9,8 +9,8 @@
 
     .pquote {
         float: right;
-        width: 200px;
-        background: url(media/openquote.gif) top left no-repeat;
+        width: 300px;
+        /* background: url(media/openquote.gif) top left no-repeat; */
         color: #9A9;
         font-size: 26px;
         line-height: 0.9;
@@ -29,7 +29,7 @@
 
     .pquote .by {
         padding: 6px;
-        font-size: 12px;
+        font-size: 14px;
     }
 </style>
 
