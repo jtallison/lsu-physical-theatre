@@ -64,14 +64,14 @@ LSU Theatre’s creative team consists of director, Nick Erickson, founding memb
 
 Venue:  Greenside @ George Street  Lime Studio (Venue 236)
 
+[Tickets: 15.00/10.00 August 2-10, 12-17, 19-24](https://tickets.edfringe.com/whats-on/last-beginning)
+
 <aside class="pquote">
     <blockquote>
         <p>If you want to be amazed, terrified, and captivated. This show was unlike anything we had ever seen.</p>
     </blockquote>
     <p class="by">Byteback Theatre</p>
 </aside>
-
-[Tickets: 15.00/10.00 August 2-10, 12-17, 19-24](https://tickets.edfringe.com/whats-on/last-beginning)
 
 Time: 16:10 (40 Minutes)
 
