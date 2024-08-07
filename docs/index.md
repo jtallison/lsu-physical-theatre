@@ -2,7 +2,9 @@
     body {
         background: #020202;
         color: #cccccc;
+        font: 300 20px/1.5 Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
     }
+
     h1 {
         display: none;
     }
@@ -81,13 +83,6 @@ LSU Physical Theatre is committed to encouraging a view of global citizenry and 
 
 ![cocoon-beginning](media/cocoon-beginning.jpg){: width="60%"}
 
-<aside class="pquote">
-    <blockquote>
-        <p>If you want to be amazed, terrified, and captivated. This show was unlike anything we had ever seen.</p>
-    </blockquote>
-    <p class="by">Byteback Theatre</p>
-</aside>
-
 > from the cocoon
 
 ![fullerene trio](media/fullerene-trio.jpg){: width="60%"}
@@ -121,6 +116,14 @@ LSU Physical Theatre is committed to encouraging a view of global citizenry and 
 ![the wake](media/wake-dance.jpg){: width="60%"}
 
 > dance
+
+<aside class="pquote">
+    <blockquote>
+        <p>If you want to be amazed, terrified, and captivated. This show was unlike anything we had ever seen.</p>
+    </blockquote>
+    <p class="by">Byteback Theatre</p>
+</aside>
+
 
 ![portal](media/Maddy-portal.jpg){: width="80%"}
 
