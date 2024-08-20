@@ -69,8 +69,6 @@
 
 Hailing from Louisiana State University in Baton Rouge, Louisiana, _The Last Beginning_ was created through a unique collaboration between LSU Physical Theatre, Experimental Music & Digital Media, and Engineering. The iconic and affectionately named "Bucky Ball" was a project spearheaded by director of the program Nick Erickson then designed and manufactured by a collection of engineering students at LSU as part of their capstone projects. The fullerene is a fully functional physical theatre apparatus and used in the devising of the show. Along with aerial silk performance, original music, dance, innovative lighting and projections, the troupe brings to life scenes from a new beginning – humanity working out how to not only survive, but thrive - if they can only give themselves the chance.
 
-LSU Physical Theatre is committed to encouraging a view of global citizenry and cultural cross-pollination in the lives of young adults at home and abroad to foster a future of global inclusiveness and compassion. 
-
 LSU Theatre’s creative team consists of director, Nick Erickson, founding member of Diavolo: Architecture in Motion and a professional actor, director and choreographer of stage combat. Composer and Digital Media Artist, Jesse Allison, has been working in interactive video projection and responsive sound installations for over 20 years. Tyler Kieffer has 10 years of sound design in New York and beyond.  Author Vince LiCata has had several of his plays produced at the Fringe and in London. Olivia Lunsford, Chance Fillastre and Caitlin Church are debuting their professional compositions and songs with this production. Suzanne Chambliss has costume designed dozens of feature films and television shows in her career. 
 
 ----
