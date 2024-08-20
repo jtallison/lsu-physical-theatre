@@ -1,47 +1,66 @@
 <style>
-    body {
-        background: #020202;
-        color: #cccccc;
-        font: 300 20px/1.5 Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
-    }
+  body {
+    background: #020202;
+    color: #cccccc;
+    font: 300 20px/1.5 Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
+  }
 
-    .markdown-body {
-        font: 300 20px/1.5 Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
-    }
+  .markdown-body {
+    font: 300 20px/1.5 Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
+  }
 
-    h1 {
-        display: none;
-    }
+  h1 {
+    display: none;
+  }
 
-    img {
-      width: 40%;
-      height: auto;
-    }
+  p {
+    display: flex;
+    width: 50%;
+    flex-flow: column;
+    align-items: center;
+    flex-wrap: wrap;
+  }
 
-    .pquote {
-        float: right;
-        width: 300px;
-        /* background: url(media/openquote.gif) top left no-repeat; */
-        color: #9A9;
-        font-size: 26px;
-        line-height: 0.9;
-        font-style: italic;
-        padding: 13px;
-    }
+  img {
+    width: 90%;
+    height: auto;
+  }
 
-    blockquote {
-        margin: 0;
-    }
+  .personel {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
 
-    .pquote p:first-letter {
-        font-size: 39px;
-        font-weight: bold;
-    }
+  .caption {
+    text-align: center;
+    width: 100%;
+  }
 
-    .pquote .by {
-        padding: 6px;
-        font-size: 14px;
-    }
+  .pquote {
+    float: right;
+    width: 300px;
+    /* background: url(media/openquote.gif) top left no-repeat; */
+    color: #9A9;
+    font-size: 26px;
+    line-height: 0.9;
+    font-style: italic;
+    padding: 13px;
+  }
+
+  blockquote {
+    margin: 0;
+  }
+
+  .pquote p:first-letter {
+    font-size: 39px;
+    font-weight: bold;
+  }
+
+  .pquote .by {
+    padding: 6px;
+    font-size: 14px;
+  }
 </style>
 
 
@@ -57,34 +76,36 @@ LSU Theatre’s creative team consists of director, Nick Erickson, founding memb
 
 ## The Cast
 
-<p><img src="/media/headshots/abby-headshot.jpeg"> </img> <span class="caption">Abby Rase</span></p>
-<p><img src="/media/headshots/amanda-headshot.jpeg"> </img> <span class="caption">Amanda MacFadyen</span></p>
-<p><img src="/media/headshots/ansel-headshot.jpeg"> </img> <span class="caption">Ansel Wilder</span></p>
-<p><img src="/media/headshots/ava-headshot.jpeg"> </img> <span class="caption">Ava Heath</span></p>
-<p><img src="/media/headshots/caitlin-headshot.jpeg"> </img> <span class="caption">Caitlin Church</span></p>
-<p><img src="/media/headshots/cashmere-headshot.jpeg"> </img> <span class="caption">Cashmere Hall</span></p>
-<p><img src="/media/headshots/chance-headshot.jpeg"> </img> <span class="caption">Chance Fillastre</span></p>
-<p><img src="/media/headshots/dacien-headshot.jpeg"> </img> <span class="caption">Dacien Knighten</span></p>
-<p><img src="/media/headshots/grace headshot.jpeg"> </img> <span class="caption">Grace Laurent</span></p>
-<p><img src="/media/headshots/haley-headshot.jpeg"> </img> <span class="caption">Haley Hughes</span></p>
-<p><img src="/media/headshots/ira-headshot.jpeg"> </img> <span class="caption">Ira Anderson</span></p>
-<p><img src="/media/headshots/jose-headshot.jpeg"> </img> <span class="caption">Jose Rivera</span></p>
-<p><img src="/media/headshots/kayla-headshot.jpeg"> </img> <span class="caption">Kayla LeBoeuf</span></p>
-<p><img src="/media/headshots/maddy-headshot.jpeg"> </img> <span class="caption">Maddy Antrainer</span></p>
-<p><img src="/media/headshots/ricardo-headshot.jpeg"> </img> <span class="caption">Ricardo Mendoze</span></p>
-<p><img src="/media/headshots/stephen-headshot.jpeg"> </img> <span class="caption">Stephen Guenther</span></p>
-<p><img src="/media/headshots/tre-headshot.jpeg"> </img><span class="caption">Tre Williams</span></p>
+<div class="personel" markdown="1">
+  <p><img src="/media/headshots/abby-headshot.jpeg">  <span class="caption">Abby Rase</span></p>
+  <p><img src="/media/headshots/amanda-headshot.jpeg">  <span class="caption">Amanda MacFadyen</span></p>
+  <p><img src="/media/headshots/ansel-headshot.jpeg">  <span class="caption">Ansel Wilder</span></p>
+  <p><img src="/media/headshots/ava-headshot.jpeg">  <span class="caption">Ava Heath</span></p>
+  <p><img src="/media/headshots/caitlin-headshot.jpeg">  <span class="caption">Caitlin Church</span></p>
+  <p><img src="/media/headshots/cashmere-headshot.jpeg">  <span class="caption">Cashmere Hall</span></p>
+  <p><img src="/media/headshots/chance-headshot.jpeg">  <span class="caption">Chance Fillastre</span></p>
+  <p><img src="/media/headshots/dacien-headshot.jpeg">  <span class="caption">Dacien Knighten</span></p>
+  <p><img src="/media/headshots/grace headshot.jpeg">  <span class="caption">Grace Laurent</span></p>
+  <p><img src="/media/headshots/haley-headshot.jpeg">  <span class="caption">Haley Hughes</span></p>
+  <p><img src="/media/headshots/ira-headshot.jpeg">  <span class="caption">Ira Anderson</span></p>
+  <p><img src="/media/headshots/jose-headshot.jpeg">  <span class="caption">Jose Rivera</span></p>
+  <p><img src="/media/headshots/kayla-headshot.jpeg">  <span class="caption">Kayla LeBoeuf</span></p>
+  <p><img src="/media/headshots/maddy-headshot.jpeg">  <span class="caption">Maddy Antrainer</span></p>
+  <p><img src="/media/headshots/ricardo-headshot.jpeg">  <span class="caption">Ricardo Mendoze</span></p>
+  <p><img src="/media/headshots/stephen-headshot.jpeg">  <span class="caption">Stephen Guenther</span></p>
+  <p><img src="/media/headshots/tre-headshot.jpeg"> <span class="caption">Tre Williams</span></p>
+</div>
 
 ----
 
 ## The Crew
 
-
-<p><img src="/media/headshots/olivia-headshot.jpeg"> </img> <span class="caption">Olivia Lunsford, Show Runner and Composition</span></p>
-<p><img src="/media/headshots/kate-headshot.jpeg"> </img> <span class="caption">Kate Landry, Lighting Design</span></p>
-<p><img src="/media/headshots/haley-headshot.jpeg"> </img> <span class="caption">Haley Hughes, Sound Design</span></p>
-<p><img src="/media/headshots/amanda-headshot.jpeg"> </img> <span class="caption">Amanda MacFadyen, Marketing</span></p>
-
+<div class="personel" markdown="1">
+  <p><img src="/media/headshots/olivia-headshot.jpeg">  <span class="caption">Olivia Lunsford, Show Runner and Composition</span></p>
+  <p><img src="/media/headshots/kate-headshot.jpeg">  <span class="caption">Kate Landry, Lighting Design</span></p>
+  <p><img src="/media/headshots/haley-headshot.jpeg">  <span class="caption">Haley Hughes, Sound Design</span></p>
+  <p><img src="/media/headshots/amanda-headshot.jpeg">  <span class="caption">Amanda MacFadyen, Marketing</span></p>
+</div>
 
 
 
