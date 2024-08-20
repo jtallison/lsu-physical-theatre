@@ -57,23 +57,23 @@ LSU Theatre’s creative team consists of director, Nick Erickson, founding memb
 
 ## The Cast
 
-<p><i src="abby-headshot.jpeg"> </i> <span class="caption">Abby Rase</span></p>
-<p><i src="amanda-headshot.jpeg"> </i> <span class="caption">Amanda MacFadyen</span></p>
-<p><i src="ansel-headshot.jpeg"> </i> <span class="caption">Ansel Wilder</span></p>
-<p><i src="ava-headshot.jpeg"> </i> <span class="caption">Ava Heath</span></p>
-<p><i src="caitlin-headshot.jpeg"> </i> <span class="caption">Caitlin Church</span></p>
-<p><i src="cashmere-headshot.jpeg"> </i> <span class="caption">Cashmere Hall</span></p>
-<p><i src="chance-headshot.jpeg"> </i> <span class="caption">Chance Fillastre</span></p>
-<p><i src="dacien-headshot.jpeg"> </i> <span class="caption">Dacien Knighten</span></p>
-<p><i src="grace headshot.jpeg"> </i> <span class="caption">Grace Laurent</span></p>
-<p><i src="haley-headshot.jpeg"> </i> <span class="caption">Haley Hughes</span></p>
-<p><i src="ira-headshot.jpeg"> </i> <span class="caption">Ira Anderson</span></p>
-<p><i src="jose-headshot.jpeg"> </i> <span class="caption">Jose Rivera</span></p>
-<p><i src="kayla-headshot.jpeg"> </i> <span class="caption">Kayla LeBoeuf</span></p>
-<p><i src="maddy-headshot.jpeg"> </i> <span class="caption">Maddy Antrainer</span></p>
-<p><i src="ricardo-headshot.jpeg"> </i> <span class="caption">Ricardo Mendoze</span></p>
-<p><i src="stephen-headshot.jpeg"> </i> <span class="caption">Stephen Guenther</span></p>
-<p><i src="tre-headshot.jpeg"> </i><span class="caption">Tre Williams</span></p>
+<p><i src="/media/headshots/abby-headshot.jpeg"> </i> <span class="caption">Abby Rase</span></p>
+<p><i src="/media/headshots/amanda-headshot.jpeg"> </i> <span class="caption">Amanda MacFadyen</span></p>
+<p><i src="/media/headshots/ansel-headshot.jpeg"> </i> <span class="caption">Ansel Wilder</span></p>
+<p><i src="/media/headshots/ava-headshot.jpeg"> </i> <span class="caption">Ava Heath</span></p>
+<p><i src="/media/headshots/caitlin-headshot.jpeg"> </i> <span class="caption">Caitlin Church</span></p>
+<p><i src="/media/headshots/cashmere-headshot.jpeg"> </i> <span class="caption">Cashmere Hall</span></p>
+<p><i src="/media/headshots/chance-headshot.jpeg"> </i> <span class="caption">Chance Fillastre</span></p>
+<p><i src="/media/headshots/dacien-headshot.jpeg"> </i> <span class="caption">Dacien Knighten</span></p>
+<p><i src="/media/headshots/grace headshot.jpeg"> </i> <span class="caption">Grace Laurent</span></p>
+<p><i src="/media/headshots/haley-headshot.jpeg"> </i> <span class="caption">Haley Hughes</span></p>
+<p><i src="/media/headshots/ira-headshot.jpeg"> </i> <span class="caption">Ira Anderson</span></p>
+<p><i src="/media/headshots/jose-headshot.jpeg"> </i> <span class="caption">Jose Rivera</span></p>
+<p><i src="/media/headshots/kayla-headshot.jpeg"> </i> <span class="caption">Kayla LeBoeuf</span></p>
+<p><i src="/media/headshots/maddy-headshot.jpeg"> </i> <span class="caption">Maddy Antrainer</span></p>
+<p><i src="/media/headshots/ricardo-headshot.jpeg"> </i> <span class="caption">Ricardo Mendoze</span></p>
+<p><i src="/media/headshots/stephen-headshot.jpeg"> </i> <span class="caption">Stephen Guenther</span></p>
+<p><i src="/media/headshots/tre-headshot.jpeg"> </i><span class="caption">Tre Williams</span></p>
 
 ----
 
