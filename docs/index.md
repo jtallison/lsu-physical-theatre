@@ -43,7 +43,7 @@
 
 Join us at the Edinburgh Fringe, August 2-24, 2024
 
-[About the Troupe](./about/) | [Press Release](./press-release/) | [Purchase The Last Beginning Tickets here](https://tickets.edfringe.com/whats-on/last-beginning)
+[About the Troupe](/about/) | [Press Release](/press-release/) | [Purchase The Last Beginning Tickets here](https://tickets.edfringe.com/whats-on/last-beginning)
 
 ----
 

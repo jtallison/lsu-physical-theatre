@@ -63,7 +63,7 @@
   }
 </style>
 
-[Back to the Beginning](./) | [Press Release](./press-release/) | [Purchase _The Last Beginning_ Tickets here](https://tickets.edfringe.com/whats-on/last-beginning)
+[Back to the Beginning](/) | [Press Release](/press-release/) | [Purchase _The Last Beginning_ Tickets here](https://tickets.edfringe.com/whats-on/last-beginning)
 
 ## About Us
 
