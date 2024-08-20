@@ -13,7 +13,7 @@
     display: none;
   }
 
-  p {
+  .person {
     display: flex;
     width: 50%;
     flex-flow: column;
@@ -63,10 +63,11 @@
   }
 </style>
 
+[Back to the Beginning](./) | [Press Release](./press-release/) | [Purchase _The Last Beginning_ Tickets here](https://tickets.edfringe.com/whats-on/last-beginning)
 
 ## About Us
 
-Hailing rom Louisiana State University in Baton Rouge, Louisiana, _The Last Beginning_ was created through a unique collaboration between LSU Physical Theatre, Experimental Music & Digital Media, and Theatre. 
+Hailing from Louisiana State University in Baton Rouge, Louisiana, _The Last Beginning_ was created through a unique collaboration between LSU Physical Theatre, Experimental Music & Digital Media, and Engineering. The iconic and affectionately named "Bucky Ball" was a project spearheaded by director of the program Nick Erickson then designed and manufactured by a collection of engineering students at LSU as part of their capstone projects. The fullerene is a fully functional physical theatre apparatus and used in the devising of the show. Along with aerial silk performance, original music, dance, innovative lighting and projections, the troupe brings to life scenes from a new beginning – humanity working out how to not only survive, but thrive - if they can only give themselves the chance.
 
 LSU Physical Theatre is committed to encouraging a view of global citizenry and cultural cross-pollination in the lives of young adults at home and abroad to foster a future of global inclusiveness and compassion. 
 
@@ -77,23 +78,23 @@ LSU Theatre’s creative team consists of director, Nick Erickson, founding memb
 ## The Cast
 
 <div class="personel" markdown="1">
-  <p><img src="/media/headshots/abby-headshot.jpeg">  <span class="caption">Abby Rase</span></p>
-  <p><img src="/media/headshots/amanda-headshot.jpeg">  <span class="caption">Amanda MacFadyen</span></p>
-  <p><img src="/media/headshots/ansel-headshot.jpeg">  <span class="caption">Ansel Wilder</span></p>
-  <p><img src="/media/headshots/ava-headshot.jpeg">  <span class="caption">Ava Heath</span></p>
-  <p><img src="/media/headshots/caitlin-headshot.jpeg">  <span class="caption">Caitlin Church</span></p>
-  <p><img src="/media/headshots/cashmere-headshot.jpeg">  <span class="caption">Cashmere Hall</span></p>
-  <p><img src="/media/headshots/chance-headshot.jpeg">  <span class="caption">Chance Fillastre</span></p>
-  <p><img src="/media/headshots/dacien-headshot.jpeg">  <span class="caption">Dacien Knighten</span></p>
-  <p><img src="/media/headshots/grace headshot.jpeg">  <span class="caption">Grace Laurent</span></p>
-  <p><img src="/media/headshots/haley-headshot.jpeg">  <span class="caption">Haley Hughes</span></p>
-  <p><img src="/media/headshots/ira-headshot.jpeg">  <span class="caption">Ira Anderson</span></p>
-  <p><img src="/media/headshots/jose-headshot.jpeg">  <span class="caption">Jose Rivera</span></p>
-  <p><img src="/media/headshots/kayla-headshot.jpeg">  <span class="caption">Kayla LeBoeuf</span></p>
-  <p><img src="/media/headshots/maddy-headshot.jpeg">  <span class="caption">Maddy Antrainer</span></p>
-  <p><img src="/media/headshots/ricardo-headshot.jpeg">  <span class="caption">Ricardo Mendoze</span></p>
-  <p><img src="/media/headshots/stephen-headshot.jpeg">  <span class="caption">Stephen Guenther</span></p>
-  <p><img src="/media/headshots/tre-headshot.jpeg"> <span class="caption">Tre Williams</span></p>
+  <p class="person"><img src="/media/headshots/abby-headshot.jpeg">  <span class="caption">Abby Rase</span></p>
+  <p class="person"><img src="/media/headshots/amanda-headshot.jpeg">  <span class="caption">Amanda MacFadyen</span></p>
+  <p class="person"><img src="/media/headshots/ansel-headshot.jpeg">  <span class="caption">Ansel Wilder</span></p>
+  <p class="person"><img src="/media/headshots/ava-headshot.jpeg">  <span class="caption">Ava Heath</span></p>
+  <p class="person"><img src="/media/headshots/caitlin-headshot.jpeg">  <span class="caption">Caitlin Church</span></p>
+  <p class="person"><img src="/media/headshots/cashmere-headshot.jpeg">  <span class="caption">Cashmere Hall</span></p>
+  <p class="person"><img src="/media/headshots/chance-headshot.jpeg">  <span class="caption">Chance Fillastre</span></p>
+  <p class="person"><img src="/media/headshots/dacien-headshot.jpeg">  <span class="caption">Dacien Knighten</span></p>
+  <p class="person"><img src="/media/headshots/grace headshot.jpeg">  <span class="caption">Grace Laurent</span></p>
+  <p class="person"><img src="/media/headshots/haley-headshot.jpeg">  <span class="caption">Haley Hughes</span></p>
+  <p class="person"><img src="/media/headshots/ira-headshot.jpeg">  <span class="caption">Ira Anderson</span></p>
+  <p class="person"><img src="/media/headshots/jose-headshot.jpeg">  <span class="caption">Jose Rivera</span></p>
+  <p class="person"><img src="/media/headshots/kayla-headshot.jpeg">  <span class="caption">Kayla LeBoeuf</span></p>
+  <p class="person"><img src="/media/headshots/maddy-headshot.jpeg">  <span class="caption">Maddy Antrainer</span></p>
+  <p class="person"><img src="/media/headshots/ricardo-headshot.jpeg">  <span class="caption">Ricardo Mendoze</span></p>
+  <p class="person"><img src="/media/headshots/stephen-headshot.jpeg">  <span class="caption">Stephen Guenther</span></p>
+  <p class="person"><img src="/media/headshots/tre-headshot.jpeg"> <span class="caption">Tre Williams</span></p>
 </div>
 
 ----
@@ -101,10 +102,10 @@ LSU Theatre’s creative team consists of director, Nick Erickson, founding memb
 ## The Crew
 
 <div class="personel" markdown="1">
-  <p><img src="/media/headshots/olivia-headshot.jpeg">  <span class="caption">Olivia Lunsford, Show Runner and Composition</span></p>
-  <p><img src="/media/headshots/kate-headshot.jpeg">  <span class="caption">Kate Landry, Lighting Design</span></p>
-  <p><img src="/media/headshots/haley-headshot.jpeg">  <span class="caption">Haley Hughes, Sound Design</span></p>
-  <p><img src="/media/headshots/amanda-headshot.jpeg">  <span class="caption">Amanda MacFadyen, Marketing</span></p>
+  <p class="person"><img src="/media/headshots/olivia-headshot.jpeg">  <span class="caption">Olivia Lunsford, Show Runner and Composition</span></p>
+  <p class="person"><img src="/media/headshots/kate-headshot.jpeg">  <span class="caption">Kate Landry, Lighting Design</span></p>
+  <p class="person"><img src="/media/headshots/haley-headshot.jpeg">  <span class="caption">Haley Hughes, Sound Design</span></p>
+  <p class="person"><img src="/media/headshots/amanda-headshot.jpeg">  <span class="caption">Amanda MacFadyen, Marketing</span></p>
 </div>
 
 
