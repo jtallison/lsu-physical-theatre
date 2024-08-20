@@ -13,7 +13,7 @@
         display: none;
     }
 
-    i {
+    img {
       width: 40%;
       height: auto;
     }
@@ -47,7 +47,7 @@
 
 ## About Us
 
-From Louisiana State University, 
+Hailing rom Louisiana State University in Baton Rouge, Louisiana, _The Last Beginning_ was created through a unique collaboration between LSU Physical Theatre, Experimental Music & Digital Media, and Theatre. 
 
 LSU Physical Theatre is committed to encouraging a view of global citizenry and cultural cross-pollination in the lives of young adults at home and abroad to foster a future of global inclusiveness and compassion. 
 
@@ -57,33 +57,33 @@ LSU Theatre’s creative team consists of director, Nick Erickson, founding memb
 
 ## The Cast
 
-<p><i src="/media/headshots/abby-headshot.jpeg"> </i> <span class="caption">Abby Rase</span></p>
-<p><i src="/media/headshots/amanda-headshot.jpeg"> </i> <span class="caption">Amanda MacFadyen</span></p>
-<p><i src="/media/headshots/ansel-headshot.jpeg"> </i> <span class="caption">Ansel Wilder</span></p>
-<p><i src="/media/headshots/ava-headshot.jpeg"> </i> <span class="caption">Ava Heath</span></p>
-<p><i src="/media/headshots/caitlin-headshot.jpeg"> </i> <span class="caption">Caitlin Church</span></p>
-<p><i src="/media/headshots/cashmere-headshot.jpeg"> </i> <span class="caption">Cashmere Hall</span></p>
-<p><i src="/media/headshots/chance-headshot.jpeg"> </i> <span class="caption">Chance Fillastre</span></p>
-<p><i src="/media/headshots/dacien-headshot.jpeg"> </i> <span class="caption">Dacien Knighten</span></p>
-<p><i src="/media/headshots/grace headshot.jpeg"> </i> <span class="caption">Grace Laurent</span></p>
-<p><i src="/media/headshots/haley-headshot.jpeg"> </i> <span class="caption">Haley Hughes</span></p>
-<p><i src="/media/headshots/ira-headshot.jpeg"> </i> <span class="caption">Ira Anderson</span></p>
-<p><i src="/media/headshots/jose-headshot.jpeg"> </i> <span class="caption">Jose Rivera</span></p>
-<p><i src="/media/headshots/kayla-headshot.jpeg"> </i> <span class="caption">Kayla LeBoeuf</span></p>
-<p><i src="/media/headshots/maddy-headshot.jpeg"> </i> <span class="caption">Maddy Antrainer</span></p>
-<p><i src="/media/headshots/ricardo-headshot.jpeg"> </i> <span class="caption">Ricardo Mendoze</span></p>
-<p><i src="/media/headshots/stephen-headshot.jpeg"> </i> <span class="caption">Stephen Guenther</span></p>
-<p><i src="/media/headshots/tre-headshot.jpeg"> </i><span class="caption">Tre Williams</span></p>
+<p><img src="/media/headshots/abby-headshot.jpeg"> </img> <span class="caption">Abby Rase</span></p>
+<p><img src="/media/headshots/amanda-headshot.jpeg"> </img> <span class="caption">Amanda MacFadyen</span></p>
+<p><img src="/media/headshots/ansel-headshot.jpeg"> </img> <span class="caption">Ansel Wilder</span></p>
+<p><img src="/media/headshots/ava-headshot.jpeg"> </img> <span class="caption">Ava Heath</span></p>
+<p><img src="/media/headshots/caitlin-headshot.jpeg"> </img> <span class="caption">Caitlin Church</span></p>
+<p><img src="/media/headshots/cashmere-headshot.jpeg"> </img> <span class="caption">Cashmere Hall</span></p>
+<p><img src="/media/headshots/chance-headshot.jpeg"> </img> <span class="caption">Chance Fillastre</span></p>
+<p><img src="/media/headshots/dacien-headshot.jpeg"> </img> <span class="caption">Dacien Knighten</span></p>
+<p><img src="/media/headshots/grace headshot.jpeg"> </img> <span class="caption">Grace Laurent</span></p>
+<p><img src="/media/headshots/haley-headshot.jpeg"> </img> <span class="caption">Haley Hughes</span></p>
+<p><img src="/media/headshots/ira-headshot.jpeg"> </img> <span class="caption">Ira Anderson</span></p>
+<p><img src="/media/headshots/jose-headshot.jpeg"> </img> <span class="caption">Jose Rivera</span></p>
+<p><img src="/media/headshots/kayla-headshot.jpeg"> </img> <span class="caption">Kayla LeBoeuf</span></p>
+<p><img src="/media/headshots/maddy-headshot.jpeg"> </img> <span class="caption">Maddy Antrainer</span></p>
+<p><img src="/media/headshots/ricardo-headshot.jpeg"> </img> <span class="caption">Ricardo Mendoze</span></p>
+<p><img src="/media/headshots/stephen-headshot.jpeg"> </img> <span class="caption">Stephen Guenther</span></p>
+<p><img src="/media/headshots/tre-headshot.jpeg"> </img><span class="caption">Tre Williams</span></p>
 
 ----
 
 ## The Crew
 
 
-<p><i src="olivia-headshot.jpeg"> </i> <span class="caption">Olivia Lunsford, Show Runner and Composition</span></p>
-<p><i src="kate-headshot.jpeg"> </i> <span class="caption">Kate Landry, Lighting Design</span></p>
-<p><i src="haley-headshot.jpeg"> </i> <span class="caption">Haley Hughes, Sound Design</span></p>
-<p><i src="amanda-headshot.jpeg"> </i> <span class="caption">Amanda MacFadyen, Marketing</span></p>
+<p><img src="/media/headshots/olivia-headshot.jpeg"> </img> <span class="caption">Olivia Lunsford, Show Runner and Composition</span></p>
+<p><img src="/media/headshots/kate-headshot.jpeg"> </img> <span class="caption">Kate Landry, Lighting Design</span></p>
+<p><img src="/media/headshots/haley-headshot.jpeg"> </img> <span class="caption">Haley Hughes, Sound Design</span></p>
+<p><img src="/media/headshots/amanda-headshot.jpeg"> </img> <span class="caption">Amanda MacFadyen, Marketing</span></p>
 
 
 
