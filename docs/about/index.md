@@ -16,6 +16,7 @@
   table {
     background-color: black;
     width: fit-content;
+    border-radius: 10px;
   }
 
   td {
