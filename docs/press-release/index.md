@@ -1,6 +1,6 @@
 <style>
     body {
-        background: #ddf;
+        background: #e0ddeb;
         color: #030;
         font: 300 20px/1.5 Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
     }
@@ -14,7 +14,7 @@
     }
 
     table {
-      background-color: black;
+      background-color: #e0ddeb;
       width: fit-content;
       border-radius: 10px;
     }
