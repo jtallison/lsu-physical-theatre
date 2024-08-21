@@ -19,6 +19,10 @@
       border-radius: 10px;
     }
 
+  .markdown-body table {
+    width: fit-content;
+  }
+  
     td {
       background-color: #ccc;
     }
