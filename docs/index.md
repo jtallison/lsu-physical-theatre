@@ -13,6 +13,20 @@
         display: none;
     }
 
+    table {
+      background-color: black;
+      width: fit-content;
+    }
+
+    td {
+      background-color: #ccc;
+    }
+
+    a {
+      color: #aa6699;
+      text-decoration: underline;
+    }
+
     .pquote {
         float: right;
         width: 300px;

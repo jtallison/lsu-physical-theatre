@@ -13,6 +13,20 @@
     display: none;
   }
 
+  table {
+    background-color: black;
+    width: fit-content;
+  }
+
+  td {
+    background-color: #ccc;
+  }
+
+  a {
+    color: #aa6699;
+    text-decoration: underline;
+  }
+
   .person {
     display: flex;
     width: 50%;
