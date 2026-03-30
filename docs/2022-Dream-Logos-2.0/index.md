@@ -62,6 +62,8 @@
 
 [Return to LSU Physical Theatre](/)
 
+----
+
 # Dream Logos 2.0
 
 LSU Physical Theatre's 2024 show for the Edinburgh Fringe. 

@@ -58,9 +58,11 @@
     }
 </style>
 
-<!-- # LSU Physical Theatre -->
+<!-- # 2024 The Last Beginning -->
 
 [Return to LSU Physical Theatre](/)
+
+----
 
 [About the Troupe](/about/) | [Press Release](/press-release/) | [Purchase The Last Beginning Tickets here](https://tickets.edfringe.com/whats-on/last-beginning)
 

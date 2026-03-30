@@ -58,11 +58,13 @@
     }
 </style>
 
-<!-- # LSU Physical Theatre -->
-
-Join us at the Edinburgh Fringe, August 5-21, 2026
+<!-- # 2026 Homebound -->
 
 [Return to LSU Physical Theatre](/)
+
+----
+
+Join us at the Edinburgh Fringe, August 5-21, 2026
 
 # Homebound
 
