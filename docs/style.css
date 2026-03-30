@@ -91,7 +91,7 @@ body.nav-closed #categories {
 #categories div h1, #categories div p{
   width:90%;
   padding:0 5%;
-  background-color:#008080; background-color: rgba(0, 128, 128, 0.8);
+  background-color:#008080; background-color: rgba(89, 0, 128, 0.75);
   font-family: 'Raleway', sans-serif;
   
   -webkit-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
@@ -156,7 +156,7 @@ body.nav-closed #categories {
   padding: 20px;
   padding-top: 0;
   height: 100vh;
-  background-color: #f0f0f088;
+  background-color: #f0f0f060;
   width: 200px;
   transition: width 0.3s ease;
   z-index: 1000;
@@ -196,7 +196,7 @@ body.nav-closed #nav-toggle {
   left: 0;
   width: calc(100vw / 15);
   height: calc(100vw / 15);
-  background-color: #f0f0f088;
+  background-color: #f0f0f060;
   border: 1px solid #000;
 }
 
